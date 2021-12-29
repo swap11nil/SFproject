@@ -1,1 +1,0 @@
-check that git tracks file events
